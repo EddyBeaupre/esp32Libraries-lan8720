@@ -1,0 +1,21 @@
+{
+  "name": "lan8720",
+  "version": "1.1.0",
+  "description": "ESP32 LAN8720 library using ESP-IDF",
+  "keywords": "ESP32, ESP-IDF, LAN8720, Ethernet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EddyBeaupre/esp32Libraries-lan8720.git"
+  },
+  "authors": [
+    {
+      "name": "Eddy Beaupré",
+      "email": "eddy@beaupre.biz",
+      "url": "https://github.com/EddyBeaupre"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/EddyBeaupre/esp32Libraries-lan8720.git",
+  "frameworks": "espidf",
+  "platforms": "espressif32"
+}
