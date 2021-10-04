@@ -25,13 +25,13 @@
  * 
  */
 
+#include <sdkconfig.h>
 #include <freertos/FreeRTOS.h>
-#include <freertos/task.h>
+//#include <freertos/task.h>
 #include <esp_netif.h>
-#include <esp_eth.h>
+//#include <esp_eth.h>
 #include <esp_event.h>
 #include <esp_log.h>
-#include <sdkconfig.h>
 
 #include "lan8720.hpp"
 
